@@ -1,0 +1,12 @@
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentM.D74F523C.Up2Date
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\jao\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
